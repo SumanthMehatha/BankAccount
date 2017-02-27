@@ -60,6 +60,7 @@ namespace ConsoleApp1
             a1.Withdraw(2);
             a1.CheckBalance();
             Console.ReadLine();
+            
         }
     }
 }
